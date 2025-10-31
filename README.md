@@ -101,3 +101,4 @@ quant-montecarlo-gbm/
 ## TO-DO
 
 - Work with real past stocks data
+- Fix LaTeX
