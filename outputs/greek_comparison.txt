@@ -1,0 +1,13 @@
+Monte Carlo Price: 21.8807
+
+Analytic Greeks:
+  Delta: 0.636831
+  Vega: 37.524035
+  Rho: 41.890461
+  Theta: -11.475532
+
+Finite-Difference Greeks (MC):
+  Delta: 0.637817
+  Vega: 37.837005
+  Rho: 41.899572
+  Theta: 11.554658
